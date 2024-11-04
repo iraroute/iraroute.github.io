@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iraroute.github.io/JWI/sitemap_index.txt
+Sitemap: https://iraroute.github.io/RJl/sitemap_index.txt
+Sitemap: https://iraroute.github.io/aDB/sitemap_index.txt
+Sitemap: https://iraroute.github.io/nQS/sitemap_index.txt
